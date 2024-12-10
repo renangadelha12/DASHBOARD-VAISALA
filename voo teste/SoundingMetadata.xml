@@ -1,0 +1,31 @@
+<SoundingMetadata>
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="ACTIVE_FEATURES" MetadataValue="39" DataSrvTime="2024-11-08T14:42:49.5114286" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_BUFR_TYPE" MetadataValue="141" DataSrvTime="2024-11-08T14:47:59.0370230" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_BUFR_P_SENSOR_TYPE" MetadataValue="1" DataSrvTime="2024-11-08T14:47:59.0374899" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_BUFR_T_SENSOR_TYPE" MetadataValue="4" DataSrvTime="2024-11-08T14:47:59.0374899" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_BUFR_U_SENSOR_TYPE" MetadataValue="8" DataSrvTime="2024-11-08T14:47:59.0374899" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SOUNDING_ID" MetadataValue="42057e76-5228-4b70-bba1-0d48272c510a" DataSrvTime="2024-11-08T14:47:59.0386764" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="FLIGHT_NUMBER" MetadataValue="240336" DataSrvTime="2024-11-08T14:55:14.8873400" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="OBSERVER_NAME" MetadataValue="Tercio" DataSrvTime="2024-11-08T14:55:14.8873400" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="RELEASE_NUMBER" MetadataValue="1" DataSrvTime="2024-11-08T14:55:14.8873400" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_TYPE" MetadataValue="RS41-SG" DataSrvTime="2024-11-08T14:55:14.8873400" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SONDE_SERIAL_NUMBER" MetadataValue="V1020960" DataSrvTime="2024-11-08T14:55:14.8883416" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_CONFIGURATION" MetadataValue="ParachuteIntegratedBalloon" DataSrvTime="2024-11-08T14:55:14.8885109" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_MANUFACTURER" MetadataValue="Totex" DataSrvTime="2024-11-08T14:55:14.8885109" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_TYPE_CODE" MetadataValue="TotexTa" DataSrvTime="2024-11-08T14:55:14.8885109" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_WEIGHT" MetadataValue="1200" DataSrvTime="2024-11-08T14:55:14.8885109" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_MANUFACTURE_DATE" MetadataValue="" DataSrvTime="2024-11-08T14:55:14.8895119" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_AGE" MetadataValue="" DataSrvTime="2024-11-08T14:55:14.8901446" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="BALLOON_MANUFACTURE_LOT" MetadataValue="" DataSrvTime="2024-11-08T14:55:14.8901446" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="NOZZLE_LIFT" MetadataValue="" DataSrvTime="2024-11-08T14:55:14.8901446" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="TRAIN_LENGTH" MetadataValue="50" DataSrvTime="2024-11-08T14:55:14.8901446" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="TRAIN_REGULATOR" MetadataValue="NO" DataSrvTime="2024-11-08T14:55:14.8901446" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="LIGHTING_UNIT" MetadataValue="NO" DataSrvTime="2024-11-08T14:55:14.8911627" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="FREE_TEXT" MetadataValue="nt241108V" DataSrvTime="2024-11-08T14:55:14.8914346" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="GAS_TYPE" MetadataValue="Hydrogen" DataSrvTime="2024-11-08T14:55:14.8914346" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="GAS_VOLUME" MetadataValue="" DataSrvTime="2024-11-08T14:55:14.8914346" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="PARACHUTE" MetadataValue="NO" DataSrvTime="2024-11-08T14:55:14.8914346" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="REASON_FOR_TERMINATION" MetadataValue="IncreasingPressure" DataSrvTime="2024-11-08T16:24:11.7632953" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SOUNDING_DATE" MetadataValue="2024-11-08" DataSrvTime="2024-11-08T16:26:35.2117848" />
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" MetadataKeyPk="SOUNDING_TIME" MetadataValue="15:00" DataSrvTime="2024-11-08T16:26:35.2127833" />
+</SoundingMetadata>

@@ -1,0 +1,3 @@
+<SurfaceObservations>
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" DataSrvTime="2024-11-08T14:50:30.4874272" Pressure="1005.6" LaunchSitePressure="1005.6" Temperature="305.15" Humidity="69.2" WindDirection="133" WindSpeed="2.2" CloudGroup="/////" SpecialGroup1="/////" SpecialGroup2="/////" AsapStatus="-32768" SeaWaterTemperature="-32768" Source="0" Mode="5" WeatherCode="" PreviousTemperature="-32768" DewpointTemperature="298.78999999999996" WetBulbTemperature="300.65" DryBulbTemperature="-32768" />
+</SurfaceObservations>

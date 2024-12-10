@@ -1,0 +1,3 @@
+<OifParameters>
+  <Row SoundingIdPk="42057e76-5228-4b70-bba1-0d48272c510a" DataSrvTime="2024-11-08T14:49:16.4181630" SensorType="SPC-6A" SerialNumber="NULL" SzSerialNumber="6a41340" CalibrationPressure="1005.6" SolutionVolume="3" MedianFwRadius="4" FlowRate="28.11" Ioffset="NULL" IrefLin="NULL" IrefQuad="NULL" IrefZeroC="NULL" Rntc25C="NULL" VrefCh3="NULL" VrefCh4="NULL" BgCurrent="0" />
+</OifParameters>
