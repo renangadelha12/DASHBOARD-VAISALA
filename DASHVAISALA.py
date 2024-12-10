@@ -3,6 +3,9 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 mport folium
 from folium.plugins import MousePosition
+import streamlit as st
+import plotly.express as px
+import altair as alt
 arquivo_CalculatedOzone = 'c:/Cod vaisala v2/arquivos/CalculatedOzone.xml'
 arquivo_SoundingMetadata = 'c:/Cod vaisala v2/arquivos/SoundingMetadata.xml'
 arquivo_OifParameters = 'c:/Cod vaisala v2/arquivos/OifParameters.xml'
@@ -249,4 +252,5 @@ Temperatura=SurfaceObservations[3]
 umidade=SurfaceObservations[4]
 Vel_vent=SurfaceObservations[6]
 Vel_dir=SurfaceObservations[5]
+st.write(Temperatura)
 
